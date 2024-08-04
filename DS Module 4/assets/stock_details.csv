@@ -1,0 +1,16 @@
+,AMC,AMZN,BTC-USD,GME,QQQ,VWUSX,^GSPC
+shortName,"AMC Entertainment Holdings, Inc","Amazon.com, Inc.",Bitcoin USD,GameStop Corporation,"Invesco QQQ Trust, Series 1",Vanguard U.S. Growth Fund,S&P 500
+sector,Communication Services,Consumer Cyclical,,Consumer Cyclical,,,
+industry,Entertainment,Internet Retail,,Specialty Retail,,,
+quoteType,EQUITY,EQUITY,CRYPTOCURRENCY,EQUITY,ETF,MUTUALFUND,INDEX
+exchange,NYQ,NMS,CCC,NYQ,NMS,NAS,SNP
+totalAssets,,,,,174510718976,,
+marketCap,18069215232,1680145252352,722839601152,11725880320,,,
+beta,1.343307,1.151795,,-2.004352,,,
+trailingPE,,58.044777,,,4.2797947,,
+volume,58279764,3353915,25188501504,2512901,27334097,,1981527000
+averageVolume,175025039,3585830,43198009636,5975696,40158157,,3608840952
+fiftyTwoWeekLow,1.91,2871,9916.493,4.06,260.11,,3209.45
+fiftyTwoWeekHigh,72.62,3773.08,64863.098,483,368.89,,4429.97
+dividendRate,,,,,,,
+phone,913-213-2000,206-266-1000,,817 424 2000,800-983-0903,,
